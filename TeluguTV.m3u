@@ -1,0 +1,104 @@
+#EXTM3U
+
+#EXTINF:-0,Maa HD
+
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373490&extension=m3u8
+
+#EXTINF:-0,Maa 2
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373474&extension=m3u8
+
+#EXTINF:-0,Star Maa Movies HD
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373496&extension=m3u8
+
+#EXTINF:-0,Maa Gold
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373491&extension=m3u8
+
+#EXTINF:-0,Zee Cinemalu HD
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373485&extension=m3u8
+
+#EXTINF:-0,Zee Telugu HD
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373484&extension=m3u8
+
+#EXTINF:-0,Gemini HD
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373500&extension=m3u8
+
+#EXTINF:-0,Gemini Movies HD
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373499&extension=m3u8
+
+#EXTINF:-0,Gemini Music HD
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373483&extension=m3u8
+
+#EXTINF:-0,Gemini Life
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373482&extension=m3u8
+
+#EXTINF:-0,Gemini Comedy
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373498&extension=m3u8
+
+#EXTINF:-0,Etv HD
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373501&extension=m3u8
+
+#EXTINF:-0,Etv Cinema HD
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373502&extension=m3u8
+
+#EXTINF:-0,Etv Plus
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373486&extension=m3u8
+
+#EXTINF:-0,Etv Life
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373481&extension=m3u8
+
+#EXTINF:-0,National Geographic Channel HD
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373495&extension=m3u8
+
+#EXTINF:-0,History TV HD
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373497&extension=m3u8
+
+#EXTINF:-0,Discovery HD
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373503&extension=m3u8
+
+#EXTINF:-0,Sony BBC HD
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373492&extension=m3u8
+
+#EXTINF:-0,Bhakti TV
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373504&extension=m3u8
+
+#EXTINF:-0,TV 9
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373488&extension=m3u8
+
+#EXTINF:-0,V6
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373487&extension=m3u8
+
+#EXTINF:-0,10TV
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373480&extension=m3u8
+
+#EXTINF:-0,Vanitha TV
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373476&extension=m3u8
+
+#EXTINF:-0,Vissa
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373475&extension=m3u8
+
+#EXTINF:-0,CVR
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373505&extension=m3u8
+
+#EXTINF:-0,ABN
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373506&extension=m3u8
+
+#EXTINF:-0,Sony Pix HD
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=943971&extension=m3u8
+
+#EXTINF:-0,MNX HD
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=372982&extension=m3u8
+
+#EXTINF:-0,Movies Now HD
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=372981&extension=m3u8
+
+#EXTINF:-0,MN+ HD
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=372980&extension=m3u8
+
+#EXTINF:-0,Star Movies Select HD
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373320&extension=m3u8
+
+#EXTINF:-0,Star Movies HD
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373304&extension=m3u8
+
+#EXTINF:-0,Colors Infinity HD
+http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373338&extension=m3u8
